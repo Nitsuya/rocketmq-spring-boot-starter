@@ -6,6 +6,9 @@ AliYun RocketMQ Spring Book Edition
 
 [Thanks for the help from JetBrains software](https://jb.gg/OpenSource)
 
+The project follows the [Apache2.0 License](http://www.apache.org/licenses/)  
+The license is free. You can download the code, modify it as needed, and use it in your own projects  
+
 Support function:
 
 - [x] Three modes of sending ordinary messages: synchronous, asynchronous and one-way
@@ -42,7 +45,7 @@ To achieve the purpose of delay or timing.
         <dependency>
             <artifactId>rocketmq-spring-boot-starter</artifactId>
             <groupId>com.github.thierrysquirrel</groupId>
-            <version>2.3.0.4-RELEASE</version>
+            <version>2.3.0.5-RELEASE</version>
         </dependency>
 ```
  ### configuration file

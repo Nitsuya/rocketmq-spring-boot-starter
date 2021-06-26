@@ -6,6 +6,9 @@
 
 [感谢JetBrains软件的帮助](https://jb.gg/OpenSource)
 
+该项目遵循[Apache2.0 License](http://www.apache.org/licenses/)  
+许可证是免费的.您可以下载代码,根据需要进行修改,并在自己的项目中使用它  
+
 支持功能：
 - [x] 普通消息三种发送方式：同步，异步，单向
 - [x] 订阅消息集群,广播
@@ -41,7 +44,7 @@
         <dependency>
             <artifactId>rocketmq-spring-boot-starter</artifactId>
             <groupId>com.github.thierrysquirrel</groupId>
-            <version>2.3.0.4-RELEASE</version>
+            <version>2.3.0.5-RELEASE</version>
         </dependency>
 ```
  ### 配置文件
